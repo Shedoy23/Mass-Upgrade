@@ -1,21 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-Update an already-published Steam Workshop item.
-
-1) Replace <ItemId Value="..." /> below with the Steam Workshop ID printed
-   after the first publish (also visible in the Workshop URL:
-   https://steamcommunity.com/sharedfiles/filedetails/?id=<ItemId>).
-2) Optionally tweak ChangeNotes.
-3) Run:
-   cd "X:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\bin\Win64_Shipping_Client"
-   TaleWorlds.MountAndBlade.SteamWorkshop.exe "X:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\Shedoy23.MassUpgrade\workshop_update.xml"
--->
 <Tasks>
   <GetItem>
     <ItemId Value="3724776428" />
   </GetItem>
   <UpdateItem>
-    <ModuleFolder Value="Modules/Shedoy23.MassUpgrade" />
+    <ModuleFolder Value="X:\SteamLibrary\steamapps\common\Mount &amp; Blade II Bannerlord\Modules\Shedoy23.MassUpgrade" />
     <ChangeNotes Value="v1.0.1 - Fixed: settings are now saved between sessions. The settings class was missing the MCM format declaration, so values only lived in memory and reverted to defaults on restart. Thanks to Trickers555 for the report. No gameplay changes." />
   </UpdateItem>
 </Tasks>
