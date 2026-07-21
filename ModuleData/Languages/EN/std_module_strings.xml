@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<base xml_name="std_module_strings_xml">
+  <strings>
+    <string id="MassUpgrade_DisplayName" text="Mass Upgrade" />
+    <string id="MassUpgrade_GroupPriority" text="Priority" />
+    <string id="MassUpgrade_Success" text="Mass-upgraded {COUNT} troops." />
+    <string id="MassUpgrade_Error" text="MassUpgrade error: {MESSAGE}" />
+
+    <string id="MassUpgrade_PriorityRanged" text="Ranged" />
+    <string id="MassUpgrade_PriorityHorseArcher" text="Horse Archer" />
+    <string id="MassUpgrade_PriorityHeavyCavalry" text="Heavy Cavalry" />
+    <string id="MassUpgrade_PriorityCavalry" text="Cavalry" />
+    <string id="MassUpgrade_PriorityLightCavalry" text="Light Cavalry" />
+    <string id="MassUpgrade_PrioritySkirmisher" text="Skirmisher" />
+    <string id="MassUpgrade_PriorityHeavyInfantry" text="Heavy Infantry" />
+    <string id="MassUpgrade_PriorityInfantry" text="Infantry" />
+
+    <string id="MassUpgrade_HintRanged" text="Foot archers and crossbows. Higher number = preferred when a recruit has multiple upgrade paths." />
+    <string id="MassUpgrade_HintHorseArcher" text="Mounted ranged units." />
+    <string id="MassUpgrade_HintHeavyCavalry" text="Armoured mounted melee." />
+    <string id="MassUpgrade_HintCavalry" text="Generic mounted melee." />
+    <string id="MassUpgrade_HintSkirmisher" text="Foot units that throw javelins." />
+    <string id="MassUpgrade_HintInfantry" text="Generic foot melee." />
+  </strings>
+</base>

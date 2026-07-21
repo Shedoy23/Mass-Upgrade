@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Update an already-published Steam Workshop item.
+
+1) Replace <ItemId Value="..." /> below with the Steam Workshop ID printed
+   after the first publish (also visible in the Workshop URL:
+   https://steamcommunity.com/sharedfiles/filedetails/?id=<ItemId>).
+2) Optionally tweak ChangeNotes.
+3) Run:
+   cd "X:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\bin\Win64_Shipping_Client"
+   TaleWorlds.MountAndBlade.SteamWorkshop.exe "X:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\Shedoy23.MassUpgrade\workshop_update.xml"
+-->
+<Tasks>
+  <GetItem>
+    <ItemId Value="3724776428" />
+  </GetItem>
+  <UpdateItem>
+    <ModuleFolder Value="Modules/Shedoy23.MassUpgrade" />
+    <ChangeNotes Value="Bugfixes and improvements." />
+  </UpdateItem>
+</Tasks>

@@ -1,0 +1,12 @@
+"workshopitem"
+{
+	"appid"		"261550"
+	"contentfolder"		"X:\\SteamLibrary\\steamapps\\common\\Mount & Blade II Bannerlord\\Modules\\Shedoy23.MassUpgrade"
+	"previewfile"		"X:\\SteamLibrary\\steamapps\\common\\Mount & Blade II Bannerlord\\Modules\\Shedoy23.MassUpgrade\\preview.jpg"
+	"visibility"		"0"
+	"title"		"Mass Upgrade"
+	"description"		"Adds Ctrl+Click on the party-screen Upgrade Troops button — one click upgrades every upgradeable troop in your main party along the path you prefer (configurable via MCM).\n\nWithout Ctrl, the vanilla popup opens as usual. No save data is touched. No screen overlay is added.\n\nRequirements: Bannerlord v1.3.15, Harmony, ButterLib, MCM (MBOptionScreen).\n\nSource code: MIT — see LICENSE.txt."
+	"changenote"		"Set game mode and compatible version."
+	"publishedfileid"		"3724776428"
+	"tags"		"Singleplayer,v1.3.15,QualityOfLife,UI"
+}
