@@ -16,6 +16,6 @@ Update an already-published Steam Workshop item.
   </GetItem>
   <UpdateItem>
     <ModuleFolder Value="Modules/Shedoy23.MassUpgrade" />
-    <ChangeNotes Value="Bugfixes and improvements." />
+    <ChangeNotes Value="v1.0.1 - Fixed: settings are now saved between sessions. The settings class was missing the MCM format declaration, so values only lived in memory and reverted to defaults on restart. Thanks to Trickers555 for the report. No gameplay changes." />
   </UpdateItem>
 </Tasks>
