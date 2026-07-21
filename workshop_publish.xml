@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-First-time publish to Steam Workshop.
-Run from C:\Users\Edward\Desktop\Рабочая версия\... or anywhere by:
-
-  cd "X:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\bin\Win64_Shipping_Client"
-  TaleWorlds.MountAndBlade.SteamWorkshop.exe "X:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\Shedoy23.MassUpgrade\workshop_publish.xml"
-
-After successful publish:
-  - Take note of the printed Item ID (also saved in steam_workshop_uploader.txt next to the exe).
-  - Future updates: use workshop_update.xml (same folder), pasting that ID into <ItemId Value="..." />.
--->
 <Tasks>
   <CreateItem />
   <UpdateItem>
-    <ModuleFolder Value="Modules/Shedoy23.MassUpgrade" />
+    <ModuleFolder Value="X:\SteamLibrary\steamapps\common\Mount &amp; Blade II Bannerlord\Modules\Shedoy23.MassUpgrade" />
     <ItemDescription Value="Adds Ctrl+Click on the party-screen Upgrade Troops button — one click upgrades every upgradeable troop in your main party along the path you prefer (configurable via MCM).&#10;&#10;Without Ctrl, the vanilla popup opens as usual. No save data is touched. No screen overlay is added.&#10;&#10;Requirements: Bannerlord v1.3.15, Harmony, ButterLib, MCM (MBOptionScreen).&#10;&#10;Source code: MIT — see LICENSE.txt." />
     <Tags>
       <Tag Value="Mod" />
