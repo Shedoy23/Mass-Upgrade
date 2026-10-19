@@ -9,7 +9,7 @@ vanilla method.
 
 ## Requirements
 
-- Mount & Blade II: Bannerlord **v1.3.15** (locked to this version).
+- Mount & Blade II: Bannerlord **v1.4.8** (built and tested against this version).
 - [Bannerlord.Harmony](https://www.nexusmods.com/mountandblade2bannerlord/mods/2006)
 - [Bannerlord.ButterLib](https://www.nexusmods.com/mountandblade2bannerlord/mods/2018)
 - [Bannerlord.MBOptionScreen](https://www.nexusmods.com/mountandblade2bannerlord/mods/612) (MCM)
@@ -57,6 +57,11 @@ Higher number = stronger preference. Ties fall through to vanilla order.
 
 MIT — do whatever you want.
 
+## Languages
+
+English, Russian, Korean, Simplified Chinese. Troop-type names use the
+game's own official translations. Corrections welcome.
+
 ## Issues / contributions
 
-Drop a comment on the Steam Workshop page.
+Drop a comment on the Steam Workshop or Nexus Mods page.

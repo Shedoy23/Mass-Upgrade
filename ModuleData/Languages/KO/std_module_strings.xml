@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/ModuleLanguage.xsd" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+    <string id="MassUpgrade_DisplayName" text="일괄 업그레이드" />
+    <string id="MassUpgrade_GroupPriority" text="우선순위" />
+    <string id="MassUpgrade_Success" text="병력 {COUNT}명을 일괄 업그레이드했습니다." />
+    <string id="MassUpgrade_Error" text="Mass Upgrade 오류: {MESSAGE}" />
+    <string id="MassUpgrade_PriorityRanged" text="궁병" />
+    <string id="MassUpgrade_PriorityHorseArcher" text="궁기병" />
+    <string id="MassUpgrade_PriorityHeavyCavalry" text="중기병대" />
+    <string id="MassUpgrade_PriorityCavalry" text="기병대" />
+    <string id="MassUpgrade_PriorityLightCavalry" text="경기병대" />
+    <string id="MassUpgrade_PrioritySkirmisher" text="척후병" />
+    <string id="MassUpgrade_PriorityHeavyInfantry" text="중보병" />
+    <string id="MassUpgrade_PriorityInfantry" text="보병" />
+    <string id="MassUpgrade_HintRanged" text="보병 궁수와 석궁병. 업그레이드 경로가 여러 개일 때 숫자가 높을수록 우선 선택됩니다." />
+    <string id="MassUpgrade_HintHorseArcher" text="말을 탄 원거리 병력." />
+    <string id="MassUpgrade_HintHeavyCavalry" text="중장갑 근접 기병." />
+    <string id="MassUpgrade_HintCavalry" text="일반 근접 기병." />
+    <string id="MassUpgrade_HintSkirmisher" text="투창을 던지는 보병." />
+    <string id="MassUpgrade_HintInfantry" text="일반 근접 보병." />
+  </strings>
+</base>

@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.0.2 (2026-10-19)
+
+**Updated for Bannerlord v1.4.8** and **translated** into Russian, Korean and
+Simplified Chinese.
+
+- Rebuilt against the v1.4.8 game libraries (no compile errors; the patched
+  method `PartyVM.ExecuteOpenUpgradePopUp` and every API the mod calls still
+  exist). The launcher no longer flags the mod as made for v1.3.15.
+- Translations: troop-type names are taken from the game's own official
+  translations, so they read the same as the rest of the UI.
+- No gameplay changes.
+
 ## v1.0.1 (2026-07-21)
 
 **Fixed: settings were never saved.**

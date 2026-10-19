@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/ModuleLanguage.xsd" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <string id="MassUpgrade_DisplayName" text="批量升级" />
+    <string id="MassUpgrade_GroupPriority" text="优先级" />
+    <string id="MassUpgrade_Success" text="已批量升级 {COUNT} 名士兵。" />
+    <string id="MassUpgrade_Error" text="Mass Upgrade 错误：{MESSAGE}" />
+    <string id="MassUpgrade_PriorityRanged" text="射手" />
+    <string id="MassUpgrade_PriorityHorseArcher" text="骑射手" />
+    <string id="MassUpgrade_PriorityHeavyCavalry" text="重骑兵" />
+    <string id="MassUpgrade_PriorityCavalry" text="骑兵" />
+    <string id="MassUpgrade_PriorityLightCavalry" text="轻骑兵" />
+    <string id="MassUpgrade_PrioritySkirmisher" text="散兵" />
+    <string id="MassUpgrade_PriorityHeavyInfantry" text="重步兵" />
+    <string id="MassUpgrade_PriorityInfantry" text="步兵" />
+    <string id="MassUpgrade_HintRanged" text="步行弓箭手和弩手。当士兵有多条升级路线时，数值越高越优先。" />
+    <string id="MassUpgrade_HintHorseArcher" text="骑马的远程单位。" />
+    <string id="MassUpgrade_HintHeavyCavalry" text="重甲近战骑兵。" />
+    <string id="MassUpgrade_HintCavalry" text="普通近战骑兵。" />
+    <string id="MassUpgrade_HintSkirmisher" text="投掷标枪的步兵。" />
+    <string id="MassUpgrade_HintInfantry" text="普通近战步兵。" />
+  </strings>
+</base>
